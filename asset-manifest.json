@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/App-Meteo/static/js/main.c8b5cb14.js",
+    "static/media/skyBg.jpg": "/App-Meteo/static/media/skyBg.d2f96976a15501476bbd.jpg",
+    "index.html": "/App-Meteo/index.html",
+    "main.c8b5cb14.js.map": "/App-Meteo/static/js/main.c8b5cb14.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c8b5cb14.js"
+  ]
+}
